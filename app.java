@@ -1,2 +1,2 @@
 Hello World!
-Welcome to Devops traning 
+Welcome to Devops Training
